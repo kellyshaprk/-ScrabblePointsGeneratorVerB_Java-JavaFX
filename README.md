@@ -28,3 +28,6 @@ For example, there are 9 "A" letters in the bag in scrabble. If the user enters 
 <br /> <img src="game5.PNG" alt="game image" width="50%"  height="50%"/>
 <br />&nbsp; - only one letter remaining in the bag.
 <br /> <img src="game6.PNG" alt="game image" width="50%"  height="50%"/>
+
+### Skills
+It uses Java, JavaFX Scene Builder.
